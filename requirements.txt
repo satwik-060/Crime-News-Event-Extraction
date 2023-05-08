@@ -1,0 +1,9 @@
+newsapi-python
+pandas
+numpy
+matplotlib
+re
+nltk
+spacy
+sklearn
+
